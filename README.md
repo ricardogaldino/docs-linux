@@ -1,2 +1,1 @@
-# docs-linux
-Linux
+# Linux
